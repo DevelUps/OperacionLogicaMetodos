@@ -29,4 +29,3 @@ El programa ofrece las siguientes funcionalidades:
 
 Para mejorar y ampliar la funcionalidad del programa, se podrían realizar modificaciones y agregar validaciones adicionales según los requisitos específicos.
 
-Espero que esta información sea útil. Si tienes alguna otra pregunta, no dudes en preguntar.
